@@ -112,3 +112,4 @@ user.enter_login(app, "user", "pass")
 user.browse_menu(app)
 user.place_order(app, "비빔밥")
 user.receive_food("배달기사")
+
